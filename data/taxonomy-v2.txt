@@ -1,0 +1,56 @@
+### Core
+GWI Core > Attitudes and Lifestyle > Attitudes & Interests
+GWI Core > Attitudes and Lifestyle > Frequency of Drinks Consumption
+GWI Core > Attitudes and Lifestyle > Frequency of Travel
+GWI Core > Attitudes and Lifestyle > Responsibility for Food Shopping
+GWI Core > Attitudes and Lifestyle > Sport and Exercise
+GWI Core > Attitudes and Lifestyle > Voting Intention (UK & USA Only)
+GWI Core > Brand > Airlines
+GWI Core > Brand > Alcohol > Beer
+GWI Core > Brand > Alcohol > Spirits
+GWI Core > Brand > Automotive
+GWI Core > Brand > Technology Brands
+GWI Core > Demographics > Age (Groups)
+GWI Core > Demographics > Age (Individual)
+GWI Core > Demographics > Age of Children
+GWI Core > Demographics > Audience Size
+GWI Core > Demographics > Country
+GWI Core > Demographics > Country Local Regions
+GWI Core > Demographics > Education
+GWI Core > Demographics > Ethnicity & Nationality
+GWI Core > Demographics > Gender
+GWI Core > Demographics > Household Living Arrangement
+GWI Core > Demographics > Income (By Household)
+GWI Core > Demographics > Income (By Segment)
+GWI Core > Demographics > Interest in Further Education
+GWI Core > Demographics > Number of Children
+GWI Core > Demographics > Pregnancy
+GWI Core > Demographics > Regions (Economic)
+GWI Core > Demographics > Regions (World)
+GWI Core > Demographics > Relationship Status
+GWI Core > Demographics > Sexual Orientation (Selected Markets)
+GWI Core > Demographics > Survey Language
+GWI Core > Demographics > Type of Student Course
+GWI Core > Demographics > Urban Context
+GWI Core > Device Ownership and Access
+GWI Core > Marketing Touchpoints
+GWI Core > Q3 2018 Updates > New Answer Options
+GWI Core > Q3 2018 Updates > New Questions
+GWI Core > Social Media
+GWI Core > Social Media > Daily Time Spent Networking
+GWI Core > Social Media > Platform-Specific Behaviors
+GWI Core > Social Media > Reach
+GWI Core > Social Media > Types of People Followed on Social Media
+
+### gwi-0202161
+GWI Custom > GWIQ Web Analytics > Fitbit EU Web Analytics
+
+### gwi-3307182
+GWI Custom > Pollpass > OutSight > Celebrity Endorsement
+
+### gwi-7707161
+GWI Custom > Private Data - Internal > Brexit
+GWI Custom > Private Data - Internal > Brexit > Views on Brexit
+GWI Custom > Private Data - Internal > Brexit > Voting
+
+### gwi-1901162

@@ -1,0 +1,34 @@
+### Core
+GWI Core > Attitudes and Lifestyle > Attitudes and Interests
+GWI Core > Attitudes and Lifestyle > Frequency of Drinks Consumption
+GWI Core > Attitudes and Lifestyle > Frequency of Travel
+GWI Core > Attitudes and Lifestyle > Health Conditions
+GWI Core > Attitudes and Lifestyle > Internet Usage Motivations
+GWI Core > Attitudes and Lifestyle > Lifestyle Indicators
+GWI Core > Attitudes and Lifestyle > Lifestyle Segmentation
+GWI Core > Attitudes and Lifestyle > Professional Life
+GWI Core > Attitudes and Lifestyle > Responsibility for Food Shopping
+GWI Core > Attitudes and Lifestyle > Sport and Exercise
+GWI Core > Attitudes and Lifestyle > Voting Intention (UK and USA Only)
+GWI Core > Demographics > Age
+GWI Core > Demographics > Age of Children
+GWI Core > Demographics > Audience Size
+GWI Core > Demographics > Children in Household
+GWI Core > Demographics > Country
+GWI Core > Demographics > Country Local Regions
+GWI Core > Demographics > Education
+GWI Core > Demographics > Ethnicity & Nationality
+GWI Core > Demographics > Family Stage
+GWI Core > Demographics > Gender
+GWI Core > Demographics > Household Living Arrangement
+GWI Core > Demographics > Income
+GWI Core > Demographics > Interest in Further Education
+GWI Core > Demographics > Number of Children
+GWI Core > Demographics > Pregnancy
+GWI Core > Demographics > Regions
+GWI Core > Demographics > Relationship Status
+GWI Core > Demographics > Sexual Orientation
+GWI Core > Demographics > Survey Language
+GWI Core > Q1 2018 Updates > New Options
+GWI Core > Q1 2018 Updates > New Questions
+GWI Core > Social Media
