@@ -37,18 +37,22 @@ All data are provided in `text` format in [data directory](data/).
 
 ## Introduction
 
-There are 3 revisions of taxonomies. You'll find all necessary data inside [/data/](/data) folder.
+There are 3 revisions of taxonomies. You'll find all necessary data inside [/data](data) folder.
 Data are in plain `text` format which represents human readable form of taxonomies.
-Your job is to visualize differences between 2 revisions specified by user and build interactive browser.
+Your job is to **visualize differences between 2 revisions specified by user** and **build diff browser** as a single-page application. You can use one of the screenshots in [/media](media) folder as an inspiration for UI or come with any own layout.
+There are basically 3 **diff types**: unified, split and fluid view. Choose one type for your implementation.
+Your solution should be fast enough even when comparing larger files (1k lines).
+
+**Optional task**: You can implement additional diff type and improve your diff browser solution with `view` selector that allows user to switch between different diff types.
 
 ## General Acceptance Criteria
 
 - Implementation must be done in `React`.
 - You can use any 3rd library & framework you want to.
 - No dynamic server render is allowed. All functionality must be done on client.
-- You can use [screenshots](media/) in folder `media` as inspiration for UI or come with any own layout if it's satisfying requirements.
 - All naming including comments and additional documentation must be in English language.
 - Final result must be in form of full git repository with your own implementation.
+- Your solution should be dockerized application with informations how to run it.
 - There are **no time restrictions** for completing this challenge.
 - **In case you want to apply for the job but have no time finishing anytime soon let us know you're interested anyway.** (We are people too)
 
