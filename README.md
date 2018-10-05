@@ -3,12 +3,12 @@
 Hello! Wellcome to Labels JavaScript Challenge.
 
 This repository contains requirements definition of project used for job applications
-on **position of [React](https://reactjs.org/)/[JavaScript](https://www.javascript.com/) developer**.
+on **position of [Elm](https://elm-lang.org/) developer**.
 Whole assignment is based on real requirement for our production app.
 However since there is a lot of domain specific knowledge required for most parts of our system
 and we are aware of the fact that most of this logic might be confusing for newcomers we've tried to
 pick task which doesn't require any specific insight and removed all parts which might be possibly confusing to pick up.
-Thanks to this this project can be used as general challenge to build HTML app in React.
+Thanks to this this project can be used as general challenge to build HTML app in Elm.
 
 ## Position Description
 
@@ -19,7 +19,7 @@ In its essence, GlobalWebIndex is a data company. Goal of a project you'll be de
 You will sit within our Labels team and will be jointly responsible to push the development of the product forward.
 Day-to-day this involves new feature engineering, reviewing and discussing code of your colleagues and discussing the design decisions with the wider technical team.
 
-- Ideate, brainstorm and implement new components and features using JavaScript, React or Ruby, if you fancy getting your hands on backend code.
+- Ideate, brainstorm and implement new components and features using JavaScript, Elm or Ruby, if you fancy getting your hands on backend code.
 - Develop the project codebase, with the focus on long-term maintenance - we look for people who really care about the quality as a day-to-day routine.
 - Think forward and propose innovative approaches, which can push the project to the next level. We like to discuss things so you’ll be expected to demonstrate conclusive arguments and get a buy in from the whole team.
 - Evaluate external solutions (databases, frameworks, libraries) which might be beneficial to our product.
@@ -47,7 +47,7 @@ Your solution should be fast enough even when comparing larger files (1k lines).
 
 ## General Acceptance Criteria
 
-- Implementation must be done in `React`.
+- Implementation must be done in `Elm`.
 - You can use any 3rd library & framework you want to.
 - No dynamic server render is allowed. All functionality must be done on client.
 - All naming including comments and additional documentation must be in English language.
@@ -76,7 +76,7 @@ Also we want to see your ability to come up with robust & efficient solution and
 
 ## Contacts
 
-In case you want to apply for position in our team please contact `petr@globalwebindex.net`.
+In case you want to apply for position in our team please contact `thunt@globalwebindex.net`.
 If you have any questions about implementation itself you can send me mail to `roman@globalwebindex.net`
 or open issue/PR in this repository so we can discuss any part together.
 
